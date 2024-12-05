@@ -2,9 +2,10 @@
 
 Text Analysis Service is a lightweight PHP service designed to analyze textual data efficiently. This tool provides functionalities to extract insights such as:
 
-Word count
-Character count (excluding spaces)
-Sentence count
+- Word count
+- Character count (excluding spaces)
+- Sentence count
+
 It serves as a quick solution for developers who need text analysis capabilities in their applications. The modular structure allows for easy integration and expansion of additional features in the future.
 
 ---
