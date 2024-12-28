@@ -38,15 +38,19 @@ echo "Word Count: " . $analysis['word_count'] . "\n";
 ```
 
 ## Directory Structure
-
+```plaintext
 text-analysis-service-php/
 ├── src/
-│   └── TextAnalyzer.php        # Core text analysis logic
+│   └── TextAnalyzer.php
 ├── examples/
-│   └── example.php             # Example usage of the service
-├── README.md                   # Documentation
-└── .gitignore                  # Git ignore file
+│   └── example.php
+├── LICENSE
+├── README.md
+└── .gitignore
+```
 
 ## Contributing
-
 Feel free to fork this repository and submit pull requests to enhance functionality or add features.
+
+## Show Your Support
+If you found this project helpful, please consider giving it a ⭐ on GitHub. Your support means the world to us!
