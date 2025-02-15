@@ -18,7 +18,7 @@ It serves as a quick solution for developers who need text analysis capabilities
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/marwan-ahmed-23/text-analysis-service-php.git
+    git clone https://github.com/m-ah07/text-analysis-service-php.git
     ```
 2. Navigate to the project directory.
 
